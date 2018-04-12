@@ -1,0 +1,35 @@
+form {
+  margin:0 auto;
+  width:300px
+}
+input {
+	font-size: 25px;
+	background-color: #17181B;
+	color: white;
+  margin:8px;
+  padding:10px;
+  width: 100%;
+  border:1px solid #CCC
+}
+button {
+	background-color: #17181B;
+  padding:10px;
+  margin:8px;
+  border: solid #17181B 5px;
+  border-bottom: solid black 2px;
+}
+label {
+  cursor:pointer
+}
+#form-switch {
+  display:none
+}
+#register-form {
+  display:none
+}
+#form-switch:checked~#register-form {
+  display:block
+}
+#form-switch:checked~#login-form {
+  display:none
+}

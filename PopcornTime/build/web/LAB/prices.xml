@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="pricesxslt.xsl" type="text/xsl"?>
+<popcornTime>
+<rate>
+<name></name>
+<Director></Director>
+<threeD></threeD>
+<FullHD></FullHD>
+<HD></HD>
+</rate>
+
+<rate>
+<name></name>
+<Director></Director>
+<threeD></threeD>
+<FullHD></FullHD>
+<HD></HD>
+</rate>
+
+
+<rate>
+<name>-------MOVIE NAME-------</name>
+<Director>-------Director-------</Director>
+<threeD>---3D---</threeD>
+<FullHD>--FullHD--</FullHD>
+<HD>---HD---</HD>
+</rate>
+
+<rate>
+<name>Starwars - the Last Jedi</name>
+<Director>Rial Johnson</Director>
+<threeD>1200</threeD>
+<FullHD>610</FullHD>
+<HD>570</HD>
+</rate>
+
+<rate>
+<name>Jumanji - Welcome to the Jungle</name>
+<Director>Jack Kasdan</Director>
+<threeD>1050</threeD>
+<FullHD>500</FullHD>
+<HD>510</HD>
+</rate>
+
+<rate>
+<name>The Greatest Showman</name>
+<Director>Michal Gracey</Director>
+<threeD>1190</threeD>
+<FullHD>790</FullHD>
+<HD>580</HD>
+</rate>
+
+<rate>
+<name>Coco</name>
+<Director>Lee Unkrich</Director>
+<threeD>1010</threeD>
+<FullHD>520</FullHD>
+<HD>400</HD>
+</rate>
+
+<rate>
+<name>6 baloons</name>
+<Director>Marja-Lewis Ryan</Director>
+<threeD>1050</threeD>
+<FullHD>720</FullHD>
+<HD>520</HD>
+</rate>
+
+<rate>
+<name>Batman Gotham by Gaslight</name>
+<Director>Sam Liu</Director>
+<threeD>1020</threeD>
+<FullHD>680</FullHD>
+<HD>460</HD>
+</rate>
+
+<rate>
+<name>The Cloverfield Paradox</name>
+<Director>Julius Onah</Director>
+<threeD>1150</threeD>
+<FullHD>780</FullHD>
+<HD>540</HD>
+</rate>
+
+<rate>
+<name>I Kill Giants</name>
+<Director>Anders Walter</Director>
+<threeD>980</threeD>
+<FullHD>740</FullHD>
+<HD>480</HD>
+</rate>
+
+
+
+</popcornTime>

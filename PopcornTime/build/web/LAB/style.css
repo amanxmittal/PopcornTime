@@ -1,0 +1,40 @@
+.menu{
+	font-family: 'Open Sans Condensed', sans-serif;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 30px;
+text-align: center;
+color: #FFFFFF;
+}
+.inline{
+	 display: inline-block;
+}
+
+ul {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 35px;	
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #17181B;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
